@@ -1,4 +1,4 @@
-### Nest js simple blog site
+# Nest js simple blog site
 ## Getting Started
 
 First, run the development server:
