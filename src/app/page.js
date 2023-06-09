@@ -9,7 +9,7 @@ export default function Home() {
     router.push(name);
   };
   return (
-    <main className={styles.main}>
+    <main>
       <h1>THIS IS HOME PAGE</h1>
 
       <Link href="/login">goto login page</Link>
